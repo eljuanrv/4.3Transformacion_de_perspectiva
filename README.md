@@ -31,4 +31,4 @@ Notas:
 - La diferencia entre areas de circulos es:
 
 **RECURSOS**
-[VIDEO](https://www.youtube.com/watch?v=lkwtwhWKQjo)
+- [VIDEO](https://www.youtube.com/watch?v=lkwtwhWKQjo)
